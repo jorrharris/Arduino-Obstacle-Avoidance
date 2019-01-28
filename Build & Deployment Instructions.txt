@@ -1,0 +1,7 @@
+To use the car's technology:
+1. Place the car on a track that the sensors can follow.
+2. Press the button on the top of the car to start it.
+
+For upload/edit code:
+1. Make sure the USB is plugged into the computer and the arduino smartboard.
+2. Press the upload button on the Arduino IDE.

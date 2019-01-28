@@ -1,0 +1,6 @@
+Arduino Car Release Notes:
+Developed by: Jordan Harris, Austin Morris, Jordan Carnaggio, Joshua Rodriguez
+
+Arduino Car 1.0.0
+-Obstacle avoidance technology added.
+-Line tracking technology added.
